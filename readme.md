@@ -20,19 +20,19 @@ This is an asset that outputs sound from multiple sound card devices.
 
 #### Method
 
-*Generate instance*
+##### Generate instance
 
 `MultiDeviceSoundManager soundPlayer = new MultiDeviceSoundManager();`
 
-*Get deveice list*
+##### Get deveice list
 
 `string deviceList = soundPlayer.GetDveice(int systemID);`	
 
-*Load*
+##### Load
 	
 `soundPlayer.Load(string filePath, int deviceIndex);`
 
-*Play*
+##### Play
 
 `soundPlayer.Play();`
 
@@ -45,5 +45,7 @@ This is an asset that outputs sound from multiple sound card devices.
 - Play sound file.
 
 This asset is licensed under MIT license.
+
 This asset is using FMOD.
-FMOD dynamic libraries are licensed under *FMOD's non-commercial license.*
+
+FMOD dynamic libraries are licensed under **FMOD's non-commercial license.**
