@@ -45,7 +45,5 @@ This is an asset that outputs sound from multiple sound card devices.
 - Play sound file.
 
 This asset is licensed under MIT license.
-
 This asset is using FMOD.
-
 FMOD dynamic libraries are licensed under **FMOD's non-commercial license.**
