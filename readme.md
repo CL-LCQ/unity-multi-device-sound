@@ -7,36 +7,36 @@ Referenced [Zach Gage FMOD player.](http://forum.openframeworks.cc/t/multi-devic
 
 ## Support
 
-#### OS
+### OS
 - OSX 10.13
 
-#### Platform
+### Platform
 - Unity 2019
 
 
 ## Usage
 
-#### Install
+### Install
 1. Open UnityPackge.
 
 
-#### Method
+### Method
 
-##### Generate instance
+#### Generate instance
 
 `MultiDeviceSoundManager soundPlayer = new MultiDeviceSoundManager();`
 
-##### Get deveice list
+#### Get deveice list
 
 `string deviceList = soundPlayer.GetDveice(int systemID);`	
 
 **List update requires a restrt of Unity.**
 
-##### Load
+#### Load
 	
 `soundPlayer.Load(string filePath, int deviceIndex);`
 
-##### Play
+#### Play
 
 `soundPlayer.Play();`
 
