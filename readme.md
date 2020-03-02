@@ -1,7 +1,9 @@
 
 # Unity Multi Dvice Sound Player
 
-This is an asset that outputs sound from multiple sound card devices.
+This is an asset that outputs sound from multiple sound card devices.  
+
+Referenced [Zach Gage FMOD player.](http://forum.openframeworks.cc/t/multi-device-targeting-with-fmod/951)
 
 ## Support
 
@@ -27,6 +29,8 @@ This is an asset that outputs sound from multiple sound card devices.
 ##### Get deveice list
 
 `string deviceList = soundPlayer.GetDveice(int systemID);`	
+
+** List update requires a restrt of Unity. **
 
 ##### Load
 	
