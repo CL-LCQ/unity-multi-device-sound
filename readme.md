@@ -30,7 +30,7 @@ Referenced [Zach Gage FMOD player.](http://forum.openframeworks.cc/t/multi-devic
 
 `string deviceList = soundPlayer.GetDveice(int systemID);`	
 
-** List update requires a restrt of Unity. **
+**List update requires a restrt of Unity.**
 
 ##### Load
 	
