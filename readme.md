@@ -40,13 +40,23 @@ List update requires a restrt of Unity.
 
 `soundPlayer.Play();`
 
+#### Stop
+
+`soundPlayer.Stop();`
+
 
 ## Features
 
-- Get device list.
-- Load sound file.
-- Select sound device.
-- Play sound file.
+- Get device list
+- Select device
+- Play 
+- Stop
+- Pause
+- Volume
+- Speed
+- Pan
+etc...
+  
 
 This asset is licensed under MIT license.  
 This asset is using FMOD.  
