@@ -54,7 +54,7 @@ List update requires a restrt of Unity.
 - Pause
 - Volume
 - Speed
-- Pan
+- Pan  
 etc...
   
 
