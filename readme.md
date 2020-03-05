@@ -3,7 +3,7 @@
 
 This is an asset that outputs sound from multiple sound card devices.  
 
-Referenced [Zach Gage FMOD player.](http://forum.openframeworks.cc/t/multi-device-targeting-with-fmod/951)
+Referenced http://forum.openframeworks.cc/t/multi-device-targeting-with-fmod/951
 
 ## Support
 
